@@ -1,4 +1,4 @@
-# ✅ TaskFlow - Dynamic Todo App
+#  TaskFlow - Dynamic Todo App
 
 A stylish, interactive Todo application that welcomes you based on the time of day and keeps your tasks organized using persistent local storage.
 
@@ -34,5 +34,11 @@ A stylish, interactive Todo application that welcomes you based on the time of d
 
 - `index.html` - The core layout.
 - `todo.css` - Styles and keyframe animations.
+
+## Project Preview
+<img width="1907" height="879" alt="Todo preview" src="https://github.com/user-attachments/assets/740b35e3-e67b-4266-a07f-259fabe508c9" />
+
+<img width="1913" height="881" alt="Todo preview 2" src="https://github.com/user-attachments/assets/3eee180c-8f66-4864-8fc5-e81ae5d06579" />
+
 - `todo.js` - Main application logic and storage management.
 
